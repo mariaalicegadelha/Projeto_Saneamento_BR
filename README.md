@@ -43,7 +43,7 @@ Dessa forma, o banco permite responder questões como:
 
 O modelo foi desenvolvido utilizando o **brModelo**.
 
-![Diagrama ER](Modelo%20DER.png)
+![Diagrama ER](modelo/Modelo%20DER.png)
 
 ### Principais relacionamentos
 
